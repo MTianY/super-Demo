@@ -29,6 +29,7 @@
 		4C64E9ED216A68000089F393 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		4C64E9F4216A681A0089F393 /* TYPerson.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TYPerson.h; sourceTree = "<group>"; };
 		4C64E9F5216A681A0089F393 /* TYPerson.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TYPerson.m; sourceTree = "<group>"; };
+		4CE3C6E9216B9ACE00FFB504 /* ViewController.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = ViewController.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +66,7 @@
 				4C64E9DF216A67FE0089F393 /* AppDelegate.m */,
 				4C64E9E1216A67FE0089F393 /* ViewController.h */,
 				4C64E9E2216A67FE0089F393 /* ViewController.m */,
+				4CE3C6E9216B9ACE00FFB504 /* ViewController.cpp */,
 				4C64E9F4216A681A0089F393 /* TYPerson.h */,
 				4C64E9F5216A681A0089F393 /* TYPerson.m */,
 				4C64E9E4216A67FE0089F393 /* Main.storyboard */,
